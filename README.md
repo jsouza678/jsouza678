@@ -9,6 +9,8 @@ I'm currently working at Mobile2you as Android Developer. 🔭
 
 Mini Bio:
 
+<img justify="center" align="right" width="300" height="156" src="mobile-development-mobile-development-everywhere.jpg">
+
 -  I’m currently working on ...
 - 🌱My study path is Flutter, Some Android things (nobody knows everything, right? haha) and maybe iOs in the future.
 - 💬 Ask me about cars, music and games.
