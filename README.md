@@ -6,8 +6,6 @@
 
 I build lots of sample apps on this account to study on my spare times.
 
-I'm currently working at Mobile2you as Android Developer. 🔭
-
 Mini Bio:
 - 🌱My study path is Flutter, Some Android things (nobody knows everything, right? haha) and maybe iOs in the future.
 - 💬 Ask me about cars, music and games.
